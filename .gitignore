@@ -1,0 +1,17 @@
+
+# Bytecode compilado de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints automáticos de Jupyter y Colab
+.ipynb_checkpoints/
+
+# Archivos de log
+*.log
+
+# Archivos de datos pesados
+*.xlsx
+
+# Variables de entorno 
+.env
