@@ -1,0 +1,9 @@
+INDICADORES DE TEMPERATURA GLOBAL (GISTEMP)
+Fuente: datahub.io/core/global-temp
+==================================================
+- Anomalía promedio histórica: +0.0822 °C
+- Anomalía máxima registrada: +1.4800 °C  (2023-09)
+- Anomalía mínima registrada: -0.8200 °C  (1916-12)
+- Promedio últimos 10 años: +1.0043 °C
+- Promedio primeros 10 años: -0.2273 °C
+- Diferencia tendencial: +1.2316 °C
